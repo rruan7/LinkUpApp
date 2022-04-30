@@ -64,7 +64,7 @@ export default class Home extends Component {
                     <b>Creatica Hackathon 2022</b>
                   </CardTitle>
                   <Button color="warning">
-                    <b>Match Me!</b>
+                    <b>Add to My Topics +</b>
                   </Button>
                 </CardBody>
               </Card>
@@ -77,7 +77,7 @@ export default class Home extends Component {
                     <b>Pizza</b>
                   </CardTitle>
                   <Button color="warning">
-                    <b>Match Me!</b>
+                    <b>Add to My Topics +</b>
                   </Button>
                 </CardBody>
               </Card>
@@ -90,7 +90,7 @@ export default class Home extends Component {
                     <b>Hiking</b>
                   </CardTitle>
                   <Button color="warning">
-                    <b>Match Me!</b>
+                    <b>Add to My Topics +</b>
                   </Button>
                 </CardBody>
               </Card>

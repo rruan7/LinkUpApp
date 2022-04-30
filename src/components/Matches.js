@@ -134,6 +134,19 @@ export default class Matches extends Component {
               </div>
             </Col>
           </Row>
+          <br />
+          <div
+            style={{
+              display: "flex",
+              flexDirection: "column",
+              alignItems: "center",
+              justifyContent: "center",
+            }}
+          >
+            <Button size="lg" color="warning">
+              <b>Generate New Match</b>
+            </Button>
+          </div>
         </Container>
         <br />
       </div>
